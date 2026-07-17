@@ -17,26 +17,3 @@ df = pd.read_excel("dataset/Superstore.xlsx")
 
 df.to_csv("store.csv", index=False)
 
-
-
-
-# # Bersihkan nama kolom
-# df.columns = (
-#     df.columns
-#       .str.strip()
-#       .str.lower()
-#       .str.replace(r'[^a-zA-Z0-9]+', '_', regex=True)
-# )
-
-# print(df.columns)
-# print(df.head())
-
-# # Buat tabel baru + isi data
-# df.to_sql(
-#     "sales_data",
-#     engine,
-#     if_exists="replace",
-#     index=False
-# )
-
-# print("Selesai!")

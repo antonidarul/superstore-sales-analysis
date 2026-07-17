@@ -69,7 +69,7 @@ Main Metrics:
 
 ---
 ## Project Structure
-
+```
 superstore-sales-analysis/
 │
 ├── dashboard/
@@ -96,7 +96,7 @@ superstore-sales-analysis/
 ├── load.py
 │
 └── README.md
-
+```
 
 
 
@@ -167,7 +167,7 @@ The Tableau dashboard consists of four analytical pages.
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 ### Executive Dashboard
 
@@ -187,12 +187,12 @@ The Tableau dashboard consists of four analytical pages.
 
 ---
 
-## 📄 Business Report
+## Business Report
 
 The business report summarizes findings, business insights, and strategic recommendations derived from each dashboard. It translates analytical results into actionable recommendations that support business decision-making.
 
 
-## 🔍 Key Insights
+## Key Insights
 
 ### 1. Technology Drives Business Performance
 
@@ -206,7 +206,7 @@ The West region consistently outperformed other regions, suggesting opportunitie
 
 Products receiving higher discounts generally produced lower profits, indicating that discount strategies should be carefully optimized.
 
-## 💡 Final Recommendation
+## Final Recommendation
 
 - Improve sales performance in underperforming regions.
 - Optimize discount strategies to protect profit margins.
@@ -217,6 +217,6 @@ Products receiving higher discounts generally produced lower profits, indicating
 
 
 
-## ✅ Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end Business Intelligence workflow, including SQL data exploration, business analysis, Tableau dashboard development, insight generation, and strategic business recommendations. It showcases both technical and analytical skills expected from a Data Analyst in real-world business scenarios.

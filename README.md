@@ -154,7 +154,7 @@ The Tableau dashboard consists of four analytical pages.
 
 ### Product Dashboard
 
-![Product Dashboard](dashboard/product%20Analysis.png)
+![Product Dashboard](dashboard/Product%20Analysis.png)
 
 ### Customer Dashboard
 

@@ -12,8 +12,4 @@ engine = create_engine(
     f"postgresql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 )
 
-# Baca Excel
-df = pd.read_excel("dataset/Superstore.xlsx")
-
-df.to_csv("store.csv", index=False)
 

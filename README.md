@@ -18,7 +18,7 @@ The company wants to understand:
 - How do discounts impact profitability?
 - What strategic actions should be taken to improve business performance?
 
-## 🎯 Project Goal
+##  Project Goal
 
 The objective of this project is to demonstrate an end-to-end data analysis workflow by transforming raw transactional data into actionable business insights.
 
